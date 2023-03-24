@@ -1,5 +1,5 @@
 <template>
-  <nav class="b-nav">
+  <nav class="b-mobile-nav">
     <RouterLink class="b-nav__link" to="/">Home</RouterLink>
     <RouterLink class="b-nav__link" to="/about">About</RouterLink>
     <RouterLink class="b-nav__link" to="/shop">Shop</RouterLink>
@@ -14,7 +14,4 @@ import { ref } from 'vue'
 </script>
 
 <style>
-.b-nav__link {
-  margin: 1.5rem 0.1rem;
-}
 </style>

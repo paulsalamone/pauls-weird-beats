@@ -29,3 +29,5 @@ coverage
 
 .env
 _INFO.rtf
+# Local Netlify folder
+.netlify

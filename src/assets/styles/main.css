@@ -1,14 +1,21 @@
 @import './base.css';
 
+body {
+  background-color: lightyellow;
+height: 100vh;
+
+}
 #app {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   font-weight: normal;
+
+  height: 100%;
+
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 h2 {
   font-size: 2.5rem;
